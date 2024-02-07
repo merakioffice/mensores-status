@@ -4,19 +4,19 @@
     "url": "https://qa.globalfinder.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/qa.globalfinder.com.ar.ico",
     "slug": "qa-globalfinder",
-    "status": "down",
-    "uptime": "6.59%",
-    "uptimeDay": "6.59%",
-    "uptimeWeek": "6.59%",
-    "uptimeMonth": "6.59%",
-    "uptimeYear": "6.59%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "58.17%",
+    "uptimeDay": "58.17%",
+    "uptimeWeek": "58.17%",
+    "uptimeMonth": "58.17%",
+    "uptimeYear": "58.17%",
+    "time": 288,
+    "timeDay": 288,
+    "timeWeek": 288,
+    "timeMonth": 288,
+    "timeYear": 288,
     "dailyMinutesDown": {
-      "2024-02-07": 0
+      "2024-02-07": 6
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/qa.pmsubeescaleras.com.ar.ico",
     "slug": "qa-pmsubeescaleras",
     "status": "down",
-    "uptime": "3.01%",
-    "uptimeDay": "3.01%",
-    "uptimeWeek": "3.01%",
-    "uptimeMonth": "3.01%",
-    "uptimeYear": "3.01%",
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-07": 0
+      "2024-02-07": 15
     }
   },
   {
@@ -44,17 +44,19 @@
     "url": "https://qa.ifc.mensorestudio.com",
     "icon": "https://icons.duckduckgo.com/ip3/qa.ifc.mensorestudio.com.ico",
     "slug": "qa-if-colombia",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 331,
-    "timeDay": 331,
-    "timeWeek": 331,
-    "timeMonth": 331,
-    "timeYear": 331,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 338,
+    "timeDay": 338,
+    "timeWeek": 338,
+    "timeMonth": 338,
+    "timeYear": 338,
+    "dailyMinutesDown": {
+      "2024-02-07": 0
+    }
   }
 ]
