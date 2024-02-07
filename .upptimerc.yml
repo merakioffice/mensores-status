@@ -3,20 +3,13 @@ owner: merakioffice # Your GitHub organization or username, where this repositor
 repo: mensores-status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
-
+  - name: [QA] Globalfinder
+    url: https://qa.globalfinder.com.ar
+  - name: [QA] Pmsubeescaleras
+    url: https://qa.pmsubeescaleras.com.ar
+  - name: [QA] IF Colombia
+    url: https://qa.ifc.mensorestudio.com
+    
 assignees: # Users to assign downtime issues (optional)
   - merakioffice
     
