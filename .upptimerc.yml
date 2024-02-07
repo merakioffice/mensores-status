@@ -3,11 +3,11 @@ owner: merakioffice # Your GitHub organization or username, where this repositor
 repo: mensores-status # The name of this repository
 
 sites:
-  - name: [QA] Globalfinder
+  - name: [QA]-Globalfinder
     url: https://qa.globalfinder.com.ar
-  - name: [QA] Pmsubeescaleras
+  - name: [QA]-Pmsubeescaleras
     url: https://qa.pmsubeescaleras.com.ar
-  - name: [QA] IF Colombia
+  - name: [QA]-IF-Colombia
     url: https://qa.ifc.mensorestudio.com
     
 assignees: # Users to assign downtime issues (optional)
