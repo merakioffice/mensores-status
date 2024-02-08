@@ -4,19 +4,19 @@
     "url": "https://qa.globalfinder.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/qa.globalfinder.com.ar.ico",
     "slug": "qa-globalfinder",
-    "status": "down",
-    "uptime": "98.79%",
-    "uptimeDay": "98.79%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "98.79%",
-    "time": 259,
-    "timeDay": 259,
-    "timeWeek": 259,
-    "timeMonth": 259,
-    "timeYear": 259,
+    "status": "up",
+    "uptime": "97.15%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "97.15%",
+    "uptimeYear": "97.15%",
+    "time": 275,
+    "timeDay": 275,
+    "timeWeek": 275,
+    "timeMonth": 275,
+    "timeYear": 275,
     "dailyMinutesDown": {
-      "2024-02-08": 0,
+      "2024-02-08": 9,
       "2024-02-07": 6
     }
   },
@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-02-08": 270,
+      "2024-02-08": 279,
       "2024-02-07": 250
     }
   },
@@ -47,18 +47,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/qa.ifc.mensorestudio.com.ico",
     "slug": "qa-if-colombia",
     "status": "down",
-    "uptime": "2.84%",
-    "uptimeDay": "2.84%",
-    "uptimeWeek": "2.84%",
-    "uptimeMonth": "2.84%",
-    "uptimeYear": "2.84%",
+    "uptime": "2.79%",
+    "uptimeDay": "2.79%",
+    "uptimeWeek": "2.79%",
+    "uptimeMonth": "2.79%",
+    "uptimeYear": "2.79%",
     "time": 333,
     "timeDay": 333,
     "timeWeek": 333,
     "timeMonth": 333,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2024-02-08": 270,
+      "2024-02-08": 279,
       "2024-02-07": 235
     }
   }
