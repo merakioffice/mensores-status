@@ -13,6 +13,8 @@ sites:
     url: "https://qa2.mensorestudio.com"
   - name: "[QA] Mensorestudio ARG"
     url: "https://qa2.mensorestudio.com.ar"
+  - name: "[QA] Ortopedia Suiza"
+    url: "https://qa.ortopediasuiza.com.ar/"
     
 assignees: # Users to assign downtime issues (optional)
   - merakioffice
