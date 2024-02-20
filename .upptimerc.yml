@@ -14,7 +14,7 @@ sites:
   - name: "[QA] Mensorestudio ARG"
     url: "https://qa2.mensorestudio.com.ar"
   - name: "[QA] Ortopedia Suiza"
-    url: "https://qa.ortopediasuiza.com.ar/"
+    url: "https://qa.-test-ortopediasuiza.com.ar/"
   - name: "Hidalgo & Asociados"
     url: "https://hidalgoyasociados.com.ar/"
     
