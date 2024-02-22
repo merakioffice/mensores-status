@@ -3,8 +3,8 @@ owner: merakioffice # Your GitHub organization or username, where this repositor
 repo: mensores-status # The name of this repository
 
 sites:
-  - name: "[QA] Globalfinder"
-    url: "https://qa.globalfinder.com.ar"
+  - name: "[PROD] Globalfinder"
+    url: "https://globalfinder.com.ar"
   - name: "[QA] Pmsubeescaleras"
     url: "https://qa.pmsubeescaleras.com.ar"
   - name: "[QA] IF-Colombia"
@@ -15,7 +15,7 @@ sites:
     url: "https://qa2.mensorestudio.com.ar"
   - name: "[QA] Ortopedia Suiza"
     url: "https://qa.ortopediasuiza.com.ar/"
-  - name: "Hidalgo & Asociados"
+  - name: "[PROD] Hidalgo & Asociados"
     url: "https://hidalgoyasociados.com.ar/"
     
     
