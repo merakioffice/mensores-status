@@ -17,6 +17,10 @@ sites:
     url: "https://qa.ortopediasuiza.com.ar/"
   - name: "[PROD] Hidalgo & Asociados"
     url: "https://hidalgoyasociados.com.ar/"
+  - name: "capaccioli"
+    url: "https://qa.capaccioli.mensorestudio.com/"
+  - name: "Ecosud"
+    url: "https://qa.ecosud.mensorestudio.com.ar/"
     
     
 assignees: # Users to assign downtime issues (optional)
