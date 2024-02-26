@@ -21,7 +21,8 @@ sites:
     url: "https://qa.capaccioli.mensorestudio.com/"
   - name: "Ecosud"
     url: "https://qa.ecosud.mensorestudio.com.ar/"
-    
+   - name: "Decoacuarios"
+    url: "https://qa.decoacuarios.com.ar/"   
     
 assignees: # Users to assign downtime issues (optional)
   - merakioffice
