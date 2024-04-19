@@ -18,7 +18,7 @@ sites:
   - name: "[PROD] Hidalgo & Asociados"
     url: "https://hidalgoyasociados.com.ar/"
   - name: "capaccioli"
-    url: "https://qa.capaccioli.mensorestudio.com/"
+    url: "https://www.capaccioli-sa.com.ar"
   - name: "Ecosud"
     url: "https://qa.ecosud.mensorestudio.com.ar/"
   - name: "Decoacuarios"
