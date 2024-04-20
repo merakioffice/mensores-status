@@ -22,7 +22,9 @@ sites:
   - name: "Ecosud"
     url: "https://qa.ecosud.mensorestudio.com.ar/"
   - name: "Decoacuarios"
-    url: "https://qa.decoacuarios.com.ar/"   
+    url: "https://qa.decoacuarios.com.ar/"
+  - name: "Signouniformes"
+    url: "https://signouniformes.com/"
     
 assignees: # Users to assign downtime issues (optional)
   - merakioffice
