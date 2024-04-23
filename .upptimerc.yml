@@ -25,6 +25,8 @@ sites:
     url: "https://qa.decoacuarios.com.ar/"
   - name: "Signouniformes"
     url: "https://signouniformes.com/"
+  - name: "Ortopediasuiza"
+    url: "https://ortopediasuiza.com.ar/"
     
 assignees: # Users to assign downtime issues (optional)
   - merakioffice
