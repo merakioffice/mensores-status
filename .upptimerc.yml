@@ -6,7 +6,7 @@ sites:
   - name: "[PROD] Globalfinder"
     url: "https://globalfinder.com.ar"
   - name: "[QA] Pmsubeescaleras"
-    url: "https://qa.pmsubeescaleras.com.ar"
+    url: "https://pmsubeescaleras.com.ar"
   - name: "[QA] IF-Colombia"
     url: "https://qa.ifc.mensorestudio.com"
   - name: "Mensorestudio"
