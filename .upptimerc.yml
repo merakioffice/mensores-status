@@ -25,6 +25,8 @@ sites:
     url: "https://signouniformes.com/"
   - name: "Ortopediasuiza"
     url: "https://ortopediasuiza.com.ar/"
+  - name: "Sibaritta"
+    url: "https://sibaritta.com/"
     
 assignees: # Users to assign downtime issues (optional)
   - merakioffice
