@@ -1,7 +1,7 @@
 url: https://qa.ifc.mensorestudio.com
-status: down
-code: 500
-responseTime: 1074
-lastUpdated: 2024-07-05T15:42:32.482Z
+status: up
+code: 200
+responseTime: 376
+lastUpdated: 2024-07-05T15:51:10.137Z
 startTime: 2024-02-07T19:50:14.731Z
 generator: Upptime <https://github.com/upptime/upptime>
