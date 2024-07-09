@@ -27,6 +27,8 @@ sites:
     url: "https://ortopediasuiza.com.ar/"
   - name: "Sibaritta"
     url: "https://sibaritta.com/"
+  - name: "Aatalac"
+    url: "https://aatalac.org.ar/"
     
 assignees: # Users to assign downtime issues (optional)
   - merakioffice
