@@ -29,6 +29,10 @@ sites:
     url: "https://sibaritta.com/"
   - name: "Aatalac"
     url: "https://aatalac.org.ar/"
+  - name: "Ifcolombie.fr"
+    url: "https://ifcolombie.fr/"
+
+
     
 assignees: # Users to assign downtime issues (optional)
   - merakioffice
