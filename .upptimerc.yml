@@ -8,7 +8,7 @@ sites:
   - name: "Pmsubeescaleras"
     url: "https://pmsubeescaleras.com.ar"
   - name: "[QA] IF-Colombia"
-    url: "https://qa.ifc.mensorestudio.com"
+    url: "https://qa.ifcolombie.mensorestudio.com/"
   - name: "Mensorestudio"
     url: "https://mensorestudio.com"
   - name: "Mensorestudio ARG"
