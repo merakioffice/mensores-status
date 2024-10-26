@@ -276,18 +276,20 @@
     "url": "https://aatalac.org.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/aatalac.org.ar.ico",
     "slug": "aatalac",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 421,
-    "timeDay": 179,
-    "timeWeek": 300,
-    "timeMonth": 395,
-    "timeYear": 421,
-    "dailyMinutesDown": {}
+    "time": 419,
+    "timeDay": 173,
+    "timeWeek": 283,
+    "timeMonth": 387,
+    "timeYear": 419,
+    "dailyMinutesDown": {
+      "2024-10-26": 0
+    }
   },
   {
     "name": "Ifcolombie.fr",
