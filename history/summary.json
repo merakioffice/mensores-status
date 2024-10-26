@@ -276,19 +276,19 @@
     "url": "https://aatalac.org.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/aatalac.org.ar.ico",
     "slug": "aatalac",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 419,
-    "timeDay": 173,
-    "timeWeek": 283,
-    "timeMonth": 387,
-    "timeYear": 419,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 418,
+    "timeDay": 203,
+    "timeWeek": 281,
+    "timeMonth": 384,
+    "timeYear": 418,
     "dailyMinutesDown": {
-      "2024-10-26": 0
+      "2024-10-26": 9
     }
   },
   {
