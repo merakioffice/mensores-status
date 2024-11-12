@@ -33,6 +33,8 @@ sites:
     url: "https://ifcolombie.fr/"
   - name: "Ifcolombie.fr IMAGE"
     url: "https://ifcolombie.fr/storage/img/1744271168.jpeg"
+  - name: "Ifargentine"
+    url: "https://ifargentine.com.ar/"
 
     
 assignees: # Users to assign downtime issues (optional)
