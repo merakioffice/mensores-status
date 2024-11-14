@@ -35,8 +35,9 @@ sites:
     url: "https://ifcolombie.fr/storage/img/1744271168.jpeg"
   - name: "Ifargentine"
     url: "https://ifargentine.com.ar/"
+  - name: "Jardin Japones"
+    url: "https://jardinjapones.org.ar/"
 
-    
 assignees: # Users to assign downtime issues (optional)
   - merakioffice
     
