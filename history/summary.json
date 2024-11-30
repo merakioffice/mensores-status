@@ -340,9 +340,9 @@
     "url": "https://ifargentine.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/ifargentine.com.ar.ico",
     "slug": "ifargentine",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -351,7 +351,9 @@
     "timeWeek": 694,
     "timeMonth": 578,
     "timeYear": 578,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-30": 0
+    }
   },
   {
     "name": "Jardin Japones",
@@ -359,11 +361,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jardinjapones.org.ar.ico",
     "slug": "jardin-japones",
     "status": "up",
-    "uptime": "73.87%",
+    "uptime": "74.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "73.87%",
-    "uptimeYear": "73.87%",
+    "uptimeMonth": "74.86%",
+    "uptimeYear": "74.86%",
     "time": 1220,
     "timeDay": 687,
     "timeWeek": 1486,
