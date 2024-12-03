@@ -37,6 +37,8 @@ sites:
     url: "https://ifargentine.com.ar/"
   - name: "Jardin Japones"
     url: "https://jardinjapones.org.ar/"
+  - name: "Mercadomeet"
+    url: "https://mercadomeet.com.co/"
 
 assignees: # Users to assign downtime issues (optional)
   - merakioffice
