@@ -39,6 +39,8 @@ sites:
     url: "https://jardinjapones.org.ar/"
   - name: "Mercadomeet"
     url: "https://mercadomeet.com.co/"
+  - name: "Cines Virtual"
+    url: "https://www.cinevirtual.com.ar"
 
 assignees: # Users to assign downtime issues (optional)
   - merakioffice
