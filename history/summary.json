@@ -24,11 +24,11 @@
     "url": "https://pmsubeescaleras.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/pmsubeescaleras.com.ar.ico",
     "slug": "pmsubeescaleras",
-    "status": "up",
+    "status": "down",
     "uptime": "98.10%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.51%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "98.50%",
     "uptimeYear": "98.10%",
     "time": 2361,
     "timeDay": 2725,
@@ -36,6 +36,7 @@
     "timeMonth": 3175,
     "timeYear": 2361,
     "dailyMinutesDown": {
+      "2025-01-31": 1,
       "2025-01-20": 655,
       "2024-10-09": 27,
       "2024-09-22": 27,
@@ -372,11 +373,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/jardinjapones.org.ar.ico",
     "slug": "jardin-japones",
     "status": "up",
-    "uptime": "94.79%",
+    "uptime": "94.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "94.79%",
+    "uptimeYear": "94.85%",
     "time": 1244,
     "timeDay": 1128,
     "timeWeek": 945,
@@ -415,9 +416,9 @@
     "url": "https://www.cinevirtual.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.cinevirtual.com.ar.ico",
     "slug": "cines-virtual",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -426,6 +427,8 @@
     "timeWeek": 748,
     "timeMonth": 808,
     "timeYear": 808,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-31": 0
+    }
   }
 ]
