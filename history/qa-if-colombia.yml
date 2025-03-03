@@ -1,7 +1,7 @@
 url: https://qa.ifcolombie.mensorestudio.com/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-03T16:57:26.715Z
+status: up
+code: 200
+responseTime: 395
+lastUpdated: 2025-03-03T17:14:55.232Z
 startTime: 2024-02-07T19:50:14.731Z
 generator: Upptime <https://github.com/upptime/upptime>
