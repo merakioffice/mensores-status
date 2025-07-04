@@ -1,7 +1,7 @@
 url: https://ifcolombie.fr/
-status: up
-code: 200
-responseTime: 675
-lastUpdated: 2025-07-03T23:16:29.744Z
+status: down
+code: 500
+responseTime: 1231
+lastUpdated: 2025-07-04T09:32:51.006Z
 startTime: 2024-07-11T14:34:00.204Z
 generator: Upptime <https://github.com/upptime/upptime>
